@@ -11,6 +11,10 @@ body {
 	background-position: 0px -100px;
 }
 
+::-webkit-scrollbar {
+	display: none;
+}
+
 .carousel-inner {
 	text-align: center;
 	margin-top: 40px;
