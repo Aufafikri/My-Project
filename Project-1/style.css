@@ -4,6 +4,10 @@ body {
 	font-weight: lighter;
 }
 
+::-webkit-scrollbar {
+	display: none;
+}
+
 .top {
 	background-image: url(image/background.jpeg); 
 	background-size: cover; 
