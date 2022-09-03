@@ -1,0 +1,260 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	height: 360vh;
+	background-attachment: fixed;
+	background-size: cover;
+	background-image: url(image/menubg.jpg);
+	background-position: 0px -100px;
+}
+
+.carousel-inner {
+	text-align: center;
+	margin-top: 40px;
+}
+
+h1 {
+	color: #fff;
+}
+
+#combo {
+	margin-top: 50px;
+	text-align: center;
+	color: #fff;
+}
+
+.fa-utensils {
+	font-size: 35px;
+	position: absolute;
+	top: 648px;
+	left: 940px;
+}
+
+.menu1 .text {
+	color: #fff;
+	position: absolute;
+	top: 980px;
+	left: 110px;
+	text-align: center;
+}
+
+.menu2 {
+	position: absolute;
+	top: 700px;
+	left: 400px;
+}
+
+.menu2 .text {
+	color: #fff;
+	position: absolute;
+	top: 280px;
+	left: 50px;
+	text-align: center;
+}
+
+.menu3 {
+	position: absolute;
+	top: 700px;
+	left: 800px;
+}
+
+.menu3 .text {
+	color: #fff;
+	position: absolute;
+	top: 280px;
+	left: 100px;
+	text-align: center;
+}
+
+.menu4 {
+	position: absolute;
+	top: 700px;
+	left: 1150px;
+}
+
+.menu4 .text {
+	color: #fff;
+	position: absolute;
+	top: 285px;
+	left: 90px;
+	text-align: center;
+}
+
+#cmb {
+	margin-top: 100px;
+}
+
+.menu5 {
+	position: absolute;
+	top: 1200px;
+	left: 0px;
+}
+
+.menu5 .text {
+	color: #fff;
+	position: absolute;
+	top: 285px;
+	left: 90px;
+	text-align: center;
+}
+
+.menu6 {
+	position: absolute;
+	top: 1200px;
+	left: 400px;
+}
+
+.menu6 .text {
+	color: #fff;
+	position: absolute;
+	top: 285px;
+	left: 130px;
+	text-align: center;
+}
+
+.menu7 {
+	position: absolute;
+	top: 1200px;
+	left: 800px;
+}
+
+.menu7 .text {
+	color: #fff;
+	position: absolute;
+	top: 285px;
+	left: 110px;
+	text-align: center;
+}
+
+.menu8 {
+	position: absolute;
+	top: 1200px;
+	left: 1150px;
+}
+
+.menu8 .text {
+	color: #fff;
+	position: absolute;
+	top: 285px;
+	left: 110px;
+	text-align: center;
+}
+
+.menu9 {
+	position: absolute;
+	top: 1600px;
+	left: 0px;
+}
+
+.menu9 .text {
+	color: #fff;
+	position: absolute;
+	top: 285px;
+	left: 110px;
+	text-align: center;
+}
+
+.menu10 {
+	position: absolute;
+	top: 1600px;
+	left: 400px;
+}
+
+.menu10 .text {
+	color: #fff;
+	position: absolute;
+	top: 285px;
+	left: 110px;
+	text-align: center;
+}
+
+.menu11 {
+	position: absolute;
+	top: 1600px;
+	left: 800px;
+}
+
+.menu11 .text {
+	color: #fff;
+	position: absolute;
+	top: 285px;
+	left: 110px;
+	text-align: center;
+}
+
+.menu12 {
+	position: absolute;
+	top: 1600px;
+	left: 1150px;
+}
+
+.menu12 .text {
+	color: #fff;
+	position: absolute;
+	top: 285px;
+	left: 110px;
+	text-align: center;
+}
+
+#drnk {
+	margin-top: 900px;
+}
+
+.menu13 {
+	position: absolute;
+	top: 2200px;
+	left: 100px;
+}
+
+.menu13 .text {
+	color: #fff;
+	position: absolute;
+	top: 285px;
+	left: 130px;
+	text-align: center;
+}
+
+.menu15 {
+	position: absolute;
+	top: 2200px;
+	left: 400px;
+}
+
+.menu15 .text {
+	color: #fff;
+	position: absolute;
+	top: 285px;
+	left: 120px;
+	text-align: center;
+}
+
+.menu16 {
+	position: absolute;
+	top: 2200px;
+	left: 700px;
+}
+
+.menu16 .text {
+	color: #fff;
+	position: absolute;
+	top: 285px;
+	left: 140px;
+	text-align: center;
+}
+
+.menu17 {
+	position: absolute;
+	top: 2200px;
+	left: 1000px;
+}
+
+.menu17 .text {
+	color: #fff;
+	position: absolute;
+	top: 285px;
+	left: 140px;
+	text-align: center;
+}

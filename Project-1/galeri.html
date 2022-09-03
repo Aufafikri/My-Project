@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galerry | Page</title>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <style>
+
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        body {
+            height: 380vh;
+            background-image: url(image/menubg.jpg);
+            background-attachment: fixed;
+            background-size: cover;
+        }
+
+        .galeri {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-top: 20px;
+        }
+
+        .galeri2, .galeri3, .galeri4, .galeri5, .galeri6 {
+            margin-top: 100px;
+        }
+    </style>
+</head>
+<body>
+    
+    <h1 align="center" style="color: white;" data-aos="fade-down" data-aos-duration="1000">Galerry</h1>
+    <div class="galeri">
+
+    <div class="galeri1" data-aos="fade-right" data-aos-duration="1000">
+        <img src="image/galeri1.jpg">
+    </div>
+
+    <div class="galeri2" data-aos="fade-right" data-aos-duration="1000">
+        <img src="image/galeri2.jpg" width="600px">
+    </div>
+
+    <div class="galeri3" data-aos="fade-right" data-aos-duration="1000">
+        <img src="image/galeri3.jpg">
+    </div>
+
+    <div class="galeri4" data-aos="fade-right" data-aos-duration="1000">
+        <img src="image/galeri4.jpg" width="600px">
+    </div>
+
+    <div class="galeri5" data-aos="fade-right" data-aos-duration="1000">
+        <img src="image/galeri5.jpg" width="600px" height="400px">
+    </div>
+
+    <div class="galeri6" data-aos="fade-right" data-aos-duration="1000">
+        <img src="image/galeri6.jpg" width="600px" height="400px">
+    </div>
+
+    </div>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+    AOS.init();
+  </script>
+</body>
+</html>
