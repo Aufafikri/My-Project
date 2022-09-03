@@ -244,9 +244,13 @@ video {
 	opacity: 60%;
 }
 
+.lokasi {
+	margin-top: -40px;
+}
+
 .lokasi p {
 	position: absolute;
-	top: 3810px;
+	top: 3820px;
 	left: 345px;
 	color: #fff;
 	text-transform: capitalize;
@@ -274,6 +278,10 @@ video {
 
 .fa-whatsapp:hover {
 	opacity: 60%;
+}
+
+.wa .p3 {
+	margin-top: 10px;
 }
 
 .wa:hover {
